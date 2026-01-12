@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepaksingh563" alt="deepaksingh563" /></a> </p>
 
-- 🔭 I’m currently working on [New year card](https://deepaksingh563.github.io/new-year-/)
+- 🔭 I’m currently working on [Ecommerce website](https://deepaksingh563.github.io/-LuxWatch-watch-store/)
 
-- 👯 I’m looking to collaborate on [Ecommerce website](https://deepaksingh563.github.io/-LuxWatch-watch-store/)
+- 🌱 I’m currently learning **Dom ,Framework**
 
 - 👨‍💻 All of my projects are available at [https://deepaksingh563.github.io/my-portfolio-website/](https://deepaksingh563.github.io/my-portfolio-website/)
 
