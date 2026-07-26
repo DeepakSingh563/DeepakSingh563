@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dom ,Framework**
 
-- 👨‍💻 All of my projects are available at [https://deepaksingh563.github.io/my-portfolio-website/](https://deepak-portfolio-five-weld.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://deepak-portfolio-five-weld.vercel.app/](https://deepak-portfolio-five-weld.vercel.app/)
 
 - 📫 How to reach me **kumarankit1731999@gmail.com**
 
